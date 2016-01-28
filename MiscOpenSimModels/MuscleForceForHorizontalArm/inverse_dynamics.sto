@@ -1,0 +1,13 @@
+Inverse Dynamics Generalized Forces
+version=1
+nRows=6
+nColumns=3
+inDegrees=no
+endheader
+time	r_shoulder_elev_moment	r_elbow_flex_moment
+      0.00000000	     10.40003673	      2.71209390
+      1.00000000	     10.40003673	      2.71209390
+      2.00000000	     10.40003673	      2.71209390
+      3.00000000	     10.40003673	      2.71209390
+      4.00000000	     10.40003673	      2.71209390
+      5.00000000	     10.40003673	      2.71209390

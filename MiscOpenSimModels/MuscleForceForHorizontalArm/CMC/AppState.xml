@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_25" class="java.beans.XMLDecoder">
+ <object class="org.opensim.utils.ApplicationState">
+  <void property="stateObjects">
+   <void method="put">
+    <string>MotionsDB</string>
+    <object class="org.opensim.view.motions.MotionsDBDescriptor"/>
+   </void>
+   <void method="put">
+    <string>ViewDB</string>
+    <object class="org.opensim.view.pub.ViewDBDescriptor">
+     <void property="cameraAttributes">
+      <void method="add">
+       <array class="double" length="13">
+        <void index="0">
+         <double>0.37521714584808696</double>
+        </void>
+        <void index="1">
+         <double>0.4419006486356419</double>
+        </void>
+        <void index="2">
+         <double>1.810687597486586</double>
+        </void>
+        <void index="3">
+         <double>-0.009100501239299771</double>
+        </void>
+        <void index="4">
+         <double>-0.22433699553012848</double>
+        </void>
+        <void index="5">
+         <double>0.07985650638341904</double>
+        </void>
+        <void index="6">
+         <double>-0.33346378396266035</double>
+        </void>
+        <void index="7">
+         <double>0.9022891949292341</double>
+        </void>
+        <void index="8">
+         <double>-0.2732693058125241</double>
+        </void>
+        <void index="9">
+         <double>0.20291003088345083</double>
+        </void>
+        <void index="10">
+         <double>0.3517566835088765</double>
+        </void>
+        <void index="11">
+         <double>0.9138351902688544</double>
+        </void>
+        <void index="12">
+         <double>33.94746238973827</double>
+        </void>
+       </array>
+      </void>
+     </void>
+     <void property="offsetsList">
+      <void method="add">
+       <array class="double" length="3"/>
+      </void>
+     </void>
+     <void property="viewNames">
+      <void method="add">
+       <string>View0</string>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>OpenSimDB</string>
+    <object class="org.opensim.view.pub.OpenSimDBDescriptor">
+     <void property="currentModelIndex">
+      <int>0</int>
+     </void>
+     <void property="fileNames">
+      <void method="add">
+       <string>E:\Projects\DigAstro\PredictiveModeling\OpenSimPredictiveModeling\Arm26IpoptSimple\ArmPosition\OpenSimModels\MuscleForceForHorizontalArm\CMC\WithReserves\Arm26_Optimize.osim</string>
+      </void>
+     </void>
+     <void property="modelIds">
+      <void method="add">
+       <int>0</int>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>PluginsDB</string>
+    <object class="org.opensim.view.pub.PluginsDB"/>
+   </void>
+   <void method="put">
+    <string>CoordinateViewer</string>
+    <object class="org.opensim.coordinateviewer.CoordinateViewerDescriptor">
+     <void property="poses">
+      <void method="add">
+       <object class="org.opensim.view.ModelPose">
+        <void property="coordinateNames">
+         <void method="add">
+          <string>r_shoulder_elev</string>
+         </void>
+         <void method="add">
+          <string>r_elbow_flex</string>
+         </void>
+        </void>
+        <void property="coordinateValues">
+         <void method="add">
+          <double>1.570796326794896</double>
+         </void>
+         <void method="add">
+          <double>0.0</double>
+         </void>
+        </void>
+        <void property="poseName">
+         <string>arm26_optimize</string>
+        </void>
+       </object>
+      </void>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

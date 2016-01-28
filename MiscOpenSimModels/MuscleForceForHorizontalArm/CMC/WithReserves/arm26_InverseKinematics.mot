@@ -1,0 +1,17 @@
+Coordinates
+version=1
+nRows=121
+nColumns=3
+inDegrees=yes
+
+Units are S.I. units (second, meters, Newtons, ...)
+Angles are in degrees.
+
+endheader
+time	r_shoulder_elev	r_elbow_flex
+      0.00000000	     90.0	     -0.0
+      1.00000000	     90.0	     -0.0
+      2.00000000	     90.0	     -0.0
+      3.00000000	     90.0	     -0.0
+      4.00000000	     90.0	     -0.0
+      5.00000000	     90.0	     -0.0	  

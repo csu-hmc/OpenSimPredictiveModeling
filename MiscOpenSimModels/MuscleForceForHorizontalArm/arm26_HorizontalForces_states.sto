@@ -1,0 +1,9 @@
+arm26_HorizontalForces_states
+version=1
+nRows=51
+nColumns=17
+inDegrees=no
+endheader
+time	r_shoulder_elev	r_elbow_flex	r_shoulder_elev_u	r_elbow_flex_u	TRIlong.activation	TRIlong.fiber_length	TRIlat.activation	TRIlat.fiber_length	TRImed.activation	TRImed.fiber_length	BIClong.activation	BIClong.fiber_length	BICshort.activation	BICshort.fiber_length	BRA.activation	BRA.fiber_length
+      0.00000000	      1.57079633	      0.00000000	      0.00000000	      0.00000000	      0.05000000	      0.17910471	      0.05000000	      0.07016733	      0.05000000	      0.06525919	      0.05000000	      0.12801748	      0.05000000	      0.18177926	      0.05000000	      0.08667699
+      5.00000000	      1.57079633	      0.00000000	      0.00000000	      0.00000000	      0.05000000	      0.17910471	      0.05000000	      0.07016733	      0.05000000	      0.06525919	      0.05000000

@@ -1,0 +1,25 @@
+ModelForces
+version=1
+nRows=10
+nColumns=2
+inDegrees=no
+
+This file contains the forces exerted on a model during a simulation.
+
+A force is a generalized force, meaning that it can be either a force (N) or a torque (Nm).
+
+Units are S.I. units (second, meters, Newtons, ...)
+Angles are in degrees.
+
+endheader
+time	Muscle
+      0.00000000	     98.06650000
+      0.10000000	     98.06650000
+      0.20000000	     98.06650000
+      0.30000000	     98.06650000
+      0.40000000	     98.06650000
+      0.50000000	     98.06650000
+      0.60000000	     98.06650000
+      0.70000000	     98.06650000
+      0.80000000	     98.06650000
+      0.90000000	     98.06650000
